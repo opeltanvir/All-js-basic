@@ -1,5 +1,6 @@
 var str = '1000'
 var n = 10
+var x = true
 
 
 
@@ -13,3 +14,4 @@ console.log(Boolean(-Infinity));
 console.log(Boolean(''))
 console.log(Boolean('apple'))
 console.log(Boolean(null))
+console.log(x.toString);
