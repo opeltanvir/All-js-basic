@@ -1,4 +1,4 @@
-var name = ''
+var name = 'apple'
 var fullname = name || 'Tanvir'
 console.log(fullname) 
 
