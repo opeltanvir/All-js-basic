@@ -11,4 +11,9 @@ var a= 'i am '
 var b = 'apple'
 
 var c = a.concat('',b)
-console.log(c)
+console.log(c.startsWith('i am'))
+console.log(c.endsWith('opel'))
+console.log(a.toUpperCase())
+console.log(b.toLowerCase())
+console.log('  abcdef   ' )
+console.log(c.split(''))
