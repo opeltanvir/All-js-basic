@@ -3,10 +3,10 @@ var b = 20
 
 if(a>b){
 
-  console.log('A is greater than B')
+  console.log('a is greater than B')
 
 } else if(a<b){
-    console.log('B is greater than A')
+    console.log('b is greater than A')
 }
 else{
     console.log('both are same')
